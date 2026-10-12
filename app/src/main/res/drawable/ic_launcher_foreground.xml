@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Simple note glyph centered in the 108dp adaptive-icon canvas -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,32h24l10,10v34a2,2 0,0 1,-2 2H38a2,2 0,0 1,-2 -2V34a2,2 0,0 1,2 -2z" />
+    <path
+        android:fillColor="#3F51B5"
+        android:pathData="M42,50h24v3H42zM42,57h24v3H42zM42,64h16v3H42z" />
+</vector>
